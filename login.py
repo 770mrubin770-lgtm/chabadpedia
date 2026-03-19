@@ -4,7 +4,7 @@ import warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 site = mwclient.Site('chabadpedia.co.il', path='/')
-site.login('רובין בוט', '0537311474')
+site.login('רובין בוט', 'סיסמה')
 
 # -------------------------
 # בדיקה אם הדף הוא הפניה
