@@ -4,7 +4,7 @@ from datetime import date
 # ---------- הגדרות ----------
 API_URL = "https://chabadpedia.co.il/api.php"
 USERNAME = "רובין בוט"
-PASSWORD = "0537311474" 
+PASSWORD = "" 
 PAGE_TITLE = "חב\"דפדיה:נתונים סטטיסטיים/משתמשים/מפעילים, ביורוקרטים ועורכי ממשק"
 
 session = requests.Session()
